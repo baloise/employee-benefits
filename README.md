@@ -1,13 +1,5 @@
-# repository-template-nosrc
-A template to use when starting a new project.
+# employee incentive plan
 
-## perform a repository wide search and replace for "repository-template-nosrc" and the "target-repo-name"
+Reading the plain numbers of an share-based payment plan e.g. within the [Baloise Group financial statements annual report](https://www.baloise.com/dam/baloise-com/documents/de/publikationen/jahresabschluss/2018/annual-report-baloise-group-2018.pdf) section 18.4 and following can be pretty tough.
 
-e.g. by using
-
-```
-cp -R repository-template-nosrc/ new-name && cd new-name && git config --local --unset remote.origin.url && git config --local --add remote.origin.url git@github.com:baloise/new-name.git && git reset --hard $(git commit-tree FETCH_HEAD^{tree} -m "Initial contribution") &&  git grep -l 'repository-template-nosrc' | xargs sed -i '' -e 's/repository-template-nosrc/new-name/g' && mvn clean verify && git add -A && git commit -m "Rename from template to new-name" && cd ..
-```
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/baloise/repository-template-nosrc)
-
-## the [docs](docs/index.md)
+Hence this repository (visually and interactively) demonstrates some of the potential outcomes of such a plan by using the open-source tool [Portfolio Performance](https://www.portfolio-performance.info).
