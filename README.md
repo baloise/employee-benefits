@@ -14,7 +14,9 @@ The following information are for demonstration purposes only. Yet they are deri
 
 ## this project is currently under construction and may change significantly at any point in time
 
-# idea
+# idea(s)
+
+## 01
 
 Invest (as an employee) annually (once a year) into [Baloise Holding AG (BALN.SW)](https://finance.yahoo.com/quote/BALN.SW/profile/).
 
