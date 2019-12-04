@@ -8,4 +8,7 @@ Hence this repository (visually and interactively) demonstrates some of the pote
 
 The following information are for demonstration purposes only. Yet they are derived from the actual annual report data.
 
+### this is not an investment advice
+
 ### the calcualations do not include any fee or tax calculations / deductions which would definitely make a difference.
+
