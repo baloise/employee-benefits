@@ -4,6 +4,8 @@ Reading the plain numbers of an share-based payment plan e.g. within the Baloise
 
 Hence this repository (visually and interactively) demonstrates some of the potential outcomes of such a plan by using the [open-source](https://en.wikipedia.org/wiki/Open_source) tool [Portfolio Performance](https://www.portfolio-performance.info).
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F0VWJM_B4FI/0.jpg)](https://www.youtube.com/watch?v=F0VWJM_B4FI)
+
 # disclaimer
 
 The following information are for demonstration purposes only. Yet they are derived from the actual annual report data.
