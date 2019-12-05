@@ -16,19 +16,24 @@ The following information are for demonstration purposes only. Yet they are deri
 
 # idea(s)
 
-## 01 - [example portfolio performance XML](eip/portfolio-performance.xml)
+## 01
+
+### → [example XML for portfolio performance](eip/portfolio-performance.xml)
 
 Invest (as an employee) annually (once a year) into [Baloise Holding AG (BALN.SW)](https://finance.yahoo.com/quote/BALN.SW/profile/).
 
 ![](eip/idea/01/00.png)
 
-Invest a [minimum of three years](https://en.wikipedia.org/wiki/Lock-up_period) in a row and use [dividends](https://en.wikipedia.org/wiki/Dividend) and partial share selling to buy new shares each year.
+Invest a [minimum of three years](https://en.wikipedia.org/wiki/Lock-up_period) (in the following example starting in 2015) in a row and use [dividends](https://en.wikipedia.org/wiki/Dividend) and partial share selling to buy new shares each year.
 
 ![](eip/idea/01/01.png)
 
 ### performance
 
+#### relativ
 ![](eip/idea/01/02.png)
+#### absolute
+![](eip/idea/01/03.png)
 
 # data
 
