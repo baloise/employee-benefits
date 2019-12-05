@@ -10,7 +10,7 @@ The following information are for demonstration purposes only. Yet they are deri
 
 ## ⚠️ this is not an investment advice
 
-## 💯 the calcualations do not include any fee or tax calculations / deductions which would definitely make a difference.
+## 💯 the calcualations do not include any fee or tax calculations / deductions
 
 ## 🚧 this project is currently under construction and may change significantly at any point in time
 
