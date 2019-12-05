@@ -2509,13 +2509,14 @@
         <price t="2019-11-29" v="1738000"/>
         <price t="2019-12-02" v="1736000"/>
         <price t="2019-12-03" v="1713000"/>
-        <price t="2019-12-04" v="1733000"/>
+        <price t="2019-12-04" v="1729000"/>
+        <price t="2019-12-05" v="1726000"/>
       </prices>
-      <latest t="2019-12-04" v="1729000">
-        <high>1737000</high>
-        <low>1708000</low>
-        <volume>186225</volume>
-        <previousClose>1713000</previousClose>
+      <latest t="2019-12-05" v="1726000">
+        <high>1743000</high>
+        <low>1723000</low>
+        <volume>114342</volume>
+        <previousClose>1729000</previousClose>
       </latest>
       <attributes>
         <map/>
@@ -2649,6 +2650,50 @@
                   <shares>40000000</shares>
                   <type>SELL</type>
                 </portfolio-transaction>
+                <portfolio-transaction>
+                  <date>2019-09-01T00:00</date>
+                  <currencyCode>CHF</currencyCode>
+                  <amount>674800</amount>
+                  <security reference="../../../../../../../../../securities/security"/>
+                  <crossEntry class="buysell">
+                    <portfolio reference="../../../.."/>
+                    <portfolioTransaction reference="../.."/>
+                    <account reference="../../../../../../../.."/>
+                    <accountTransaction>
+                      <date reference="../../../date"/>
+                      <currencyCode>CHF</currencyCode>
+                      <amount>674800</amount>
+                      <security reference="../../../../../../../../../../../securities/security"/>
+                      <crossEntry class="buysell" reference="../.."/>
+                      <shares>0</shares>
+                      <type>SELL</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>40000000</shares>
+                  <type>SELL</type>
+                </portfolio-transaction>
+                <portfolio-transaction>
+                  <date>2019-09-01T00:00</date>
+                  <currencyCode>CHF</currencyCode>
+                  <amount>885000</amount>
+                  <security reference="../../../../../../../../../securities/security"/>
+                  <crossEntry class="buysell">
+                    <portfolio reference="../../../.."/>
+                    <portfolioTransaction reference="../.."/>
+                    <account reference="../../../../../../../.."/>
+                    <accountTransaction>
+                      <date reference="../../../date"/>
+                      <currencyCode>CHF</currencyCode>
+                      <amount>885000</amount>
+                      <security reference="../../../../../../../../../../../securities/security"/>
+                      <crossEntry class="buysell" reference="../.."/>
+                      <shares>0</shares>
+                      <type>BUY</type>
+                    </accountTransaction>
+                  </crossEntry>
+                  <shares>100000000</shares>
+                  <type>BUY</type>
+                </portfolio-transaction>
               </transactions>
             </portfolio>
             <portfolioTransaction reference="../portfolio/transactions/portfolio-transaction[4]"/>
@@ -2704,6 +2749,23 @@
           <date>2018-12-31T00:00</date>
           <currencyCode>CHF</currencyCode>
           <amount>4000</amount>
+          <shares>0</shares>
+          <type>REMOVAL</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-05-01T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>216000</amount>
+          <security reference="../../../../../securities/security"/>
+          <shares>360000000</shares>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction reference="../account-transaction[2]/crossEntry/portfolio/transactions/portfolio-transaction[6]/crossEntry/accountTransaction"/>
+        <account-transaction reference="../account-transaction[2]/crossEntry/portfolio/transactions/portfolio-transaction[7]/crossEntry/accountTransaction"/>
+        <account-transaction>
+          <date>2019-12-31T00:00</date>
+          <currencyCode>CHF</currencyCode>
+          <amount>5800</amount>
           <shares>0</shares>
           <type>REMOVAL</type>
         </account-transaction>
